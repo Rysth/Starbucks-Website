@@ -1,4 +1,4 @@
-@import url(//db.onlinewebfonts.com/c/d7e8a95865396cddca89b00080d2cba6?family=SoDo+Sans+SemiBold);
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;700&display=swap");
 
 :root {
   --CL-primary-100: #ffffff;
@@ -8,7 +8,7 @@
   --CL-primary-700: #00000044;
   --CL-primary-900: #000000;
 
-  --FF-primary: "SoDo Sans SemiBold", sans-serif;
+  --FF-primary: "Work Sans", sans-serif;
 
   --FS-heading: 6rem;
   --FS-subheading: 3.8rem;
@@ -24,7 +24,7 @@ body {
 
 a {
   font-size: var(--FS-anchor);
-  font-weight: 400;
+  font-weight: bold;
 }
 
 p {
